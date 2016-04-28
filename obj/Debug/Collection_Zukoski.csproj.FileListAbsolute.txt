@@ -1,0 +1,6 @@
+C:\Users\guest no log in\Dropbox\CS 245\Collection_Zukoski\Collection_Zukoski\bin\Debug\Collection_Zukoski.exe.config
+C:\Users\guest no log in\Dropbox\CS 245\Collection_Zukoski\Collection_Zukoski\bin\Debug\Collection_Zukoski.exe
+C:\Users\guest no log in\Dropbox\CS 245\Collection_Zukoski\Collection_Zukoski\bin\Debug\Collection_Zukoski.pdb
+C:\Users\guest no log in\Dropbox\CS 245\Collection_Zukoski\Collection_Zukoski\obj\Debug\Collection_Zukoski.csprojResolveAssemblyReference.cache
+C:\Users\guest no log in\Dropbox\CS 245\Collection_Zukoski\Collection_Zukoski\obj\Debug\Collection_Zukoski.exe
+C:\Users\guest no log in\Dropbox\CS 245\Collection_Zukoski\Collection_Zukoski\obj\Debug\Collection_Zukoski.pdb
